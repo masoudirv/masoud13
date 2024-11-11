@@ -37,11 +37,12 @@ jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
+yarn-error.log*
 
 # TypeScript cache
 *.tsbuildinfo
 
-# Optional npm cache directory
+# Optional npm cc cache directory
 .npm
 
 # Optional eslint cache
